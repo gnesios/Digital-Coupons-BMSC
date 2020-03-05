@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Solución que permite la administración y consulta de 'cupones digitales'." Id="8ee99353-04f4-47d0-8f91-2537ecc69adc" Scope="Site" Title="BMSC Cupones Digitales">
+  <ElementManifests>
+    <ElementManifest Location="WPCouponsForm\Elements.xml" />
+    <ElementFile Location="WPCouponsForm\WPCouponsForm.webpart" />
+  </ElementManifests>
+</Feature>

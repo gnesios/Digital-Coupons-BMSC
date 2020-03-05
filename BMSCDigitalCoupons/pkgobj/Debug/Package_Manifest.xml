@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="30b445ef-c390-4154-8778-33fd76993a36" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="BMSCDigitalCoupons.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="BMSCDigitalCoupons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=61e14eb7d32ecbad" Namespace="BMSCDigitalCoupons.WPCouponsForm" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\BMSCDigitalCoupons\WPCouponsForm\WPCouponsFormUserControl.ascx" />
+    <TemplateFile Location="Layouts\BMSCDigitalCoupons\CouponsResult.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="BMSCDigitalCoupons_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

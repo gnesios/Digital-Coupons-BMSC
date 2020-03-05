@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="30b445ef-c390-4154-8778-33fd76993a36" solutionId="30b445ef-c390-4154-8778-33fd76993a36" resetWebServer="false" sharePointProductVersion="15.0" name="BMSCDigitalCoupons" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="213624b4-f6b9-4a0a-89f5-c7f717854719" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="3bfbf280-e68a-46d7-a530-fc551ba3b10e" />
+  </projectItems>
+</package>
